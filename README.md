@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arbaaz Shaikh</h1>
 <h3 align="center">A Budding Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arbaaz-15&label=Profile%20views&color=0e75b6&style=flat" alt="arbaaz-15" /> </p>
+<p align="left"> <img src="![devstart_banner](https://user-images.githubusercontent.com/110364827/204101507-d9747c54-1502-4cc1-9523-187560d5fc33.png)
+" alt="arbaaz-15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbaaz-15" alt="arbaaz-15" /></a> </p>
 
