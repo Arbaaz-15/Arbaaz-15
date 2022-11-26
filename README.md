@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arbaaz Shaikh</h1>
 <h3 align="center">A Budding Software Developer</h3>
 
-<p align="left"> <img src="![devstart_banner](https://user-images.githubusercontent.com/110364827/204101536-9946e699-d484-4099-9df5-39a323b0f0e7.png)" alt="arbaaz-15" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbaaz-15" alt="arbaaz-15" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Instagram:- arbaaz.s_77</h3>
 <p align="left">
 </p>
 
