@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 
-<h3 align="left">Connect with me: Instagram:- arbaaz.s_77</h3>
+<h3 align="left">Connect with me: Instagram:- https://tinyurl.com/bdehnkz5</h3>
 <p align="left">
 </p>
 
